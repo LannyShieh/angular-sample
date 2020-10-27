@@ -247,5 +247,7 @@ export const navItems: INavData[] = [
     icon: 'icon-layers',
     variant: 'danger',
     attributes: { target: '_blank', rel: 'noopener' }
+  },
+  {
   }
 ];
